@@ -1,32 +1,23 @@
-# BoomBikes
-> A US bike-sharing provider BoomBikes has recently suffered considerable 
-  dips in their revenues due to the ongoing Corona pandemic. 
-  The company is finding it very difficult to sustain in the current market scenario..
+# Surprise Housing
+> A US-based housing company named Surprise Housing has decided to enter the Australian market. 
+> The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price.
 
 
 ## Table of Contents
-* BoomBikes aspires to understand the demand for shared bikes among the people after 
-  this ongoing quarantine situation ends across the nation due to Covid-19(#general-information)
-* Python, Matplotlib, Seaborn(#technologies-used)
-* The factors which maily affect the bike rental are teperature, humidity and windspeed(#conclusions)
+*The company is looking at prospective properties to buy to enter the market
 
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- A bike-sharing system is a service in which bikes are made available for shared use to 
-  individuals on a short term basis for a price or free. .
-- A US bike-sharing provider BoomBikes has recently suffered considerable dips in their
-  revenues due to the ongoing Corona pandemic
-- The company is finding it very difficult to sustain in the current market scenario. 
+- The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. 
+- The company is looking at prospective properties to buy to enter the market.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The factors which maily affect the bike rental are teperature, humidity and windspeed
-- More bikes are rented in the season fall
-- Less bikes are rented in season spring
-- More bikes are rented in the clear weather situation.
+- There is no much difference in training and testing accuracy
+- The main predictor variable is ‘Neighborhood_StoneBr’
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
